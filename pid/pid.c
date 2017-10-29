@@ -12,7 +12,7 @@ int main()
 		printf("fork error!\n");
 		exit(1);
 	}
-	else if( pid == 0 )
+	else if( pid == 111 )
 	{
 		printf("Child process is printing\n");
 	}
