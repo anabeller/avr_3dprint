@@ -41,6 +41,14 @@
 //																																			        }
 //					 printf("\n");
 					}
+
+					i ++;
+					fd = close(fd);
+					if(1){
+					add(liurr);
+					add(saffron);
+					}
+						
 					  close(fd);																								    err1:
 																													        return 0;
 																															    }
