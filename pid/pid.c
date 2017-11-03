@@ -12,9 +12,9 @@ int main()
 		printf("fork error!\n");
 		exit(1);
 	}
-	else if( pid == 111 )
+	else if( pid == 339 )
 	{
-		printf("Child process is printing\n");
+		printf("This is pia")  ;printf("Child process is printing\n");
 	}
 	else
 	{
